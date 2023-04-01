@@ -1,0 +1,32 @@
+.Container {
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+}
+
+.blogs-Container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    margin-bottom: 50px;
+}
+
+.timeSpent{
+    color: blue;
+}
+
+@media screen and (max-width: 480px) {
+    .Container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blogs-Container {
+        display: flex;
+        flex-direction: column;
+        margin-top: 90px;
+    }
+
+    .bookmark-Container {
+        width: 80vw;
+        margin: 0 auto;
+    }
+}

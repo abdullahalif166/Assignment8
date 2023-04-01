@@ -1,0 +1,76 @@
+.content-Info img {
+    height: 450px;
+    width: 845px;
+    border-radius: 8px;
+}
+
+.content-Info {
+    padding: 30px;
+    
+}
+
+#personImg {
+    height: 50px;
+    width: 50px;
+}
+
+.personimg {
+    margin-top: 20px;
+    display: flex;
+
+    gap: 20px;
+}
+
+#text {
+    margin-left: 520px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+#hashTag {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#markButton{
+    color: blueviolet;
+}
+
+#markButton:hover{
+    color: darkblue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+#icon:hover{
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 480px) {
+    .content-Info {
+        width: 80vw;
+        margin: 0px auto;
+    }
+
+    .content-Info img {
+        height: 25vh;
+        width: 100%;
+    }
+
+    #text {
+        margin-left: 0px;
+    }
+
+    .personimg {
+        justify-content: space-between;
+    }
+
+    svg {
+        margin-left: 10px;
+    }
+}
+

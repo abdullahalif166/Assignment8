@@ -1,0 +1,39 @@
+[
+    {
+        "id": "01",
+        "AuthorName": "Mr. Raju",
+        "BlogTitle": "How to get your first job as a self-taught programmer!",
+        "personImg": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.15752-9/271742982_677540967006382_6296781168404994514_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGiAkcxvZErkjSOLuywvwPRh8w9Gm5F-j-HzD0abkX6P7Rz-B8nCt0PQowZ1QEXInytyQ4PCXvWXmQysg_UNtIB&_nc_ohc=Wn73zmi7FNkAX-V9CdD&_nc_ht=scontent.fjsr8-1.fna&oh=03_AdQS67pt79SXvhuuJNAalZmvVCuWsg4-2LCcAHmNKVBlnA&oe=644EA6C3",
+        "BlogCoverImg": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "readTime": 5,
+        "PublishDate": "Mar 14"
+
+    },
+    {
+        "id": "02",
+        "AuthorName": "Mrs. Setara",
+        "BlogTitle": "Get your first job as a programmer in Google!",
+        "personImg": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.15752-9/271484420_487619742724253_2617961984266223964_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEXhVJaQXJ7DoiMLG0jmvRMBIlEHmdrRCIEiUQeZ2tEItR5vBDci17hd_LIRQvCAs5TqiqD9zG10-Bq_8BURxvn&_nc_ohc=BbSsPX4LDV4AX_7V054&_nc_ht=scontent.fjsr8-1.fna&oh=03_AdRmvE91EodvaM3pt0PA2v1RjJj_3GwqYvh2fV2aTT8pRw&oe=644E870F",
+        "BlogCoverImg": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1227&q=80",
+        "readTime": 10,
+        "PublishDate": "Jan 1"
+    },
+    {
+        "id": "03",
+        "AuthorName": "Mina Mostafa",
+        "BlogTitle": "Earn money and become rich within 365 days!",
+        "personImg": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.15752-9/270660942_623420018985201_3094577524185512909_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGerC5TVEN79XvKZ6JgBE2tzQG3oADbqD7NAbegANuoPidV9D9GKu0UVMD1mOPZWFTF_bAXQoMnpTngzOznftXH&_nc_ohc=_uTJVsjuVqYAX_dqlb8&_nc_ht=scontent.fjsr8-1.fna&oh=03_AdT3Ryz4joAyMG0jjJknE6JIjyTiDDapp6c9K6jLed1KNg&oe=644E704D",
+        "BlogCoverImg": "https://images.unsplash.com/photo-1600007283728-22abc97b9318?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "readTime": 15,
+        "PublishDate": "Dec 12"
+    },
+    {
+        "id": "04",
+        "AuthorName": "Naimur Rahman",
+        "BlogTitle": "Have you seen the movie Wall-E?",
+        "personImg": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.15752-9/270660942_623420018985201_3094577524185512909_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGerC5TVEN79XvKZ6JgBE2tzQG3oADbqD7NAbegANuoPidV9D9GKu0UVMD1mOPZWFTF_bAXQoMnpTngzOznftXH&_nc_ohc=_uTJVsjuVqYAX_dqlb8&_nc_ht=scontent.fjsr8-1.fna&oh=03_AdT3Ryz4joAyMG0jjJknE6JIjyTiDDapp6c9K6jLed1KNg&oe=644E704D",
+        "BlogCoverImg": "https://images.unsplash.com/photo-1550432163-9cb326104944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "readTime": 20,
+        "PublishDate": "Sep 7"
+    }
+]
